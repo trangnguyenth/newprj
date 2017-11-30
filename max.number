@@ -1,0 +1,4 @@
+def max_among(a,b,c):
+    return sorted([a,b,c])[2]
+
+max_among(22,2,4)
